@@ -6,4 +6,9 @@ it doesn't do anything meaningful.
 
 TODO List:
 1. try `pull request` feature
+
 2. try pull from `upstream` remote repo
+
+3. try other things. 
+
+4. try other other things that I don't know yet
